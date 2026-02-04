@@ -7,7 +7,7 @@ It is automatically updated by dev0 as tasks are completed.
 
 ## Phase 1
 
-- [ ] ⏳ **Environment and Database Configuration**
+- [x] ✅ **Environment and Database Configuration**
   Create a robust environment configuration and database connection setup.
 1. Create `app/utils/env.ts` using a library like `zod` or `t3-env` to validate `DATABASE_URL` and `YOUTUBE_API_KEY`.
 2. Initialize Drizzle ORM with a basic configuration.
